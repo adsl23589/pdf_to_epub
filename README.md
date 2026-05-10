@@ -39,7 +39,7 @@
 
    ```bash
    pip install PyMuPDF EbookLib pyspellchecker tkinterdnd2
-```
+   ```
 
 3. 等待螢幕上的文字跑完，這代表套件已經順利安裝完畢。
 
@@ -50,9 +50,9 @@
 
 3. 接著，輸入以下指令來啟動程式並按下 `Enter`：
 
-```Bash
-python pdf_to_epub.py
-```
+   ```Bash
+   python pdf_to_epub.py
+   ```
 
 4. 成功啟動！這時你的畫面上會跳出一個小小的灰色視窗。
 
