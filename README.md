@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📄 PDF 轉 EPUB 智能轉換器 (PDF to EPUB Smart Converter)
 
 這是一個專為「學術論文（尤其是人文學科）」設計的輕量級轉換工具。
